@@ -72,12 +72,4 @@ python transcriber.py
 - If a CUDA-compatible GPU is available, the model will run on GPU for faster transcription.
 - If running on Windows, ensure that `msvcrt.dll` is available.
 
-## License
-
-This project is released under the MIT License.
-
-## Author
-
-[Your Name]\
-[Your GitHub Profile](https://github.com/yourgithub)
 
